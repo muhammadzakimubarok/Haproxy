@@ -1,0 +1,2 @@
+# Haproxy
+Haproxy auto configuration
